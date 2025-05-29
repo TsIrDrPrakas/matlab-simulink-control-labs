@@ -25,37 +25,32 @@ This lab series covers four essential topics in classical control systems, each 
 Detailed grading rubrics with tiered assessment criteria (Excellent, Good, Satisfactory, Poor/Incomplete) for each lab can be found in the `docs/` folder or [here](docs/Grading_Rubric.docx).
 
 ---
+
 ## 📁 Repository Structure
 
-matlab-simulink-control-labs/
-│
-├── lab1-intro/
-│ ├── lab1_instructions.docx
-│ ├── lab1_code.m
-│ └── results/
-│ └── sample_plot.png
-│
-├── lab2-transient-response/
-│ ├── lab2_instructions.docx
-│ ├── lab2_code.m
-│ └── results/
-│
-├── lab3-pid-design/
-│ ├── lab3_instructions.docx
-│ ├── pid_design.slx
-│ ├── lab3_code.m
-│ └── results/
-│
-├── lab4-stability-analysis/
-│ ├── lab4_instructions.docx
-│ ├── bode_nyquist.slx
-│ ├── lab4_code.m
-│ └── results/
-│
-├── docs/
-│ └── Grading_Rubric.docx
-│
-└── README.md
+- matlab-simulink-control-labs/
+  - lab1-intro/
+    - lab1_instructions.docx
+    - lab1_code.m
+    - results/
+      - sample_plot.png
+  - lab2-transient-response/
+    - lab2_instructions.docx
+    - lab2_code.m
+    - results/
+  - lab3-pid-design/
+    - lab3_instructions.docx
+    - pid_design.slx
+    - lab3_code.m
+    - results/
+  - lab4-stability-analysis/
+    - lab4_instructions.docx
+    - bode_nyquist.slx
+    - lab4_code.m
+    - results/
+  - docs/
+    - Grading_Rubric.docx
+  - README.md
 
 ---
 
